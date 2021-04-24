@@ -1,0 +1,17 @@
+.button{
+    outline: none;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 15px 5px 1px;
+    font-weight: 700;
+    color: #333;
+    cursor: pointer;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 10%);
+    background-color: #fff;
+    font-family: "Montserrat-thin";
+}
+
+.fa{
+    margin-right: 7px;
+}

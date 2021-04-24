@@ -1,0 +1,4 @@
+{
+    "baseUrl2" : "http://localhost:5000/api",
+    "baseUrl" : "https://candidate-table.herokuapp.com/api"
+}
